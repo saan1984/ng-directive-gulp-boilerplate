@@ -9,7 +9,7 @@ has following features:-
 * __Bootstrap3__ For Styling.
 * __LESS__ for css authoring.
 
-###Follow the the steps:-
+### Follow the the steps:-
 ---
 
 * __Install__ the boilerplate using NPM:-
@@ -41,7 +41,7 @@ has following features:-
     gulp build
     ````
 
-###More Tutorials on JavaScript:-
+### More Tutorials on JavaScript:-
 ---
 
 The following link is for my blog ___TutorialSavvy___.This blog contains articles on
