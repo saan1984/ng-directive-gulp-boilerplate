@@ -40,3 +40,10 @@ has following features:-
     ````
     gulp build
     ````
+
+###More Tutorials on JavaScript:-
+---
+
+The following link is for my blog ___TutorialSavvy___.This blog contains articles on
+web technologies.
+[http://www.tutorialsavvy.com/](http://www.tutorialsavvy.com/)
