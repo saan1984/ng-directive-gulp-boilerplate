@@ -6,6 +6,12 @@
   "directories": {
     "test": "test"
   },
+  "keywords": [
+    "bolierplate",
+    "directive",
+    "angular",
+    "angularjs"
+  ],
   "scripts": {
     "test": "./node_modules/gulp/bin/gulp.js test"
   },
