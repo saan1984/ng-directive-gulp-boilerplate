@@ -1,6 +1,6 @@
 {
   "name": "ng-directive-gulp-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular reusable directive development boilerplate using gulp and karma",
   "main": "dist/directive.js",
   "directories": {
