@@ -1,4 +1,5 @@
 #ng-directive-gulp-boilerplate
+---
 
 This NPM module is a boilerplate for creating reusable __Angular.js directive__.This bolierplate
 has following features:-
@@ -10,6 +11,7 @@ has following features:-
 * __LESS__ for css authoring.
 
 ###Follow the the steps:-
+---
 
 * __Install__ the boilerplate using NPM:-
 
